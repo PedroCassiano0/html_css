@@ -1,0 +1,11 @@
+body{
+    background: #92dabe8a url(../imagens/butterfly.gif) no-repeat fixed top right
+}
+p{
+    font-style: italic;
+    letter-spacing: 2px;
+    color: rgb(140, 68, 143);
+}
+h1{
+    color: rgb(149, 14, 212)
+} 
